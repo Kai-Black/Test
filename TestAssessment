@@ -6,7 +6,7 @@ void main(void) {
     int num2 = 7; //second number
     int result;   //variable to store the result
 
-    result = num1 + num2;
+    result = num1 * num2;
     //infinite loop to keep the program running
     while (1) {
     }
